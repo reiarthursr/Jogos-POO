@@ -139,7 +139,7 @@ void Mostrar_Circuito(bool cod1, bool cod2, bool cod3, bool cod4)
 	// ------ EXPLIQUE O QUE O IF ELSE ABAIXO FAZ NO PROGRAMA ------
 	// Dica: Olhe os outros IF ELSE abaixo. Veja o que muda e tente interpretar.
 	// Coloque seu comentário aqui!
-	//Se o codigo estiver correto o circuito vai acerder. Se não ele não acerde.
+	//Se o codigo estiver correto o circuito vai acender. Se não ele não acende.
 	if (cod2 == true)
 	{
 		cout << "	       ____	" << endl;
